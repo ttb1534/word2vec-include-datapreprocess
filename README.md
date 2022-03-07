@@ -22,4 +22,4 @@ word2vec的处理思路如下：
 
 <img src="https://gitee.com/ttb1534/typora-img-save/raw/master/image-20220306222748653.png" alt="image-20220306222748653" style="zoom:37%;" />
 
-其主要思想和原理见：
+其主要思想和原理见：https://zhuanlan.zhihu.com/p/476920885
