@@ -18,6 +18,8 @@ python train.py
 python test.py
 ~~~
 
+在上文提供的数据集链接中的datasave文件夹已经包含经处理过后的cutdata_prepare.txt和word_embedding_pretrained.txt，可直接用来测试
+
 word2vec的处理思路如下：
 
 <img src="https://gitee.com/ttb1534/typora-img-save/raw/master/image-20220306222748653.png" alt="image-20220306222748653" style="zoom:37%;" />
