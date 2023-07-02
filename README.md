@@ -3,7 +3,7 @@
 
 拿到数据集后处理思路如下：
 
-<div align=center><img src="[https://gitee.com/ttb1534/typora-img-save/raw/master/image-20220306222246864.png](https://pic2.zhimg.com/80/v2-6ebe31b877d20e425bd2ce057b00f421_1440w.webp)" alt="image-20220306222246864" width="700px" /></div>
+<div align=center><img src="https://pic2.zhimg.com/80/v2-6ebe31b877d20e425bd2ce057b00f421_1440w.webp" alt="image-20220306222246864" width="700px" /></div>
 
 原始新闻数据集为news.txt，先进行数据预处理得到分词后的文件：
 ~~~python
