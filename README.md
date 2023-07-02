@@ -22,6 +22,6 @@ python test.py
 
 word2vec的处理思路如下：
 
-<div align=center><img src="[https://gitee.com/ttb1534/typora-img-save/raw/master/image-20220306222748653.png](https://pic2.zhimg.com/80/v2-9aff3901dfbd18de347951df5e599979_1440w.webp)" alt="image-20220306222748653" width="700px" /></div>
+<div align=center><img src="https://pic2.zhimg.com/80/v2-9aff3901dfbd18de347951df5e599979_1440w.webp" alt="image-20220306222748653" width="700px" /></div>
 
 其主要思想和原理见：https://zhuanlan.zhihu.com/p/476920885
